@@ -1,0 +1,62 @@
+@cable-height: 100px;
+
+@plastic-color: #000;
+@metal-color: #808080;
+@metal-inside-color: #000080;
+
+.usb-stick {
+    margin: 0 auto;
+}
+
+.usb-stick-plastic {
+    margin: 0 auto;
+    width: 80px;
+    height: 80px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: @plastic-color;
+}
+
+.usb-stick-metal {
+    margin: 0 auto;
+    width: 64px;
+    height: 50px;
+    background-color: @metal-color;
+}
+
+.usb-stick-metal-separator {
+    width: 50%;
+    height: 100%;
+    border-right: 1px solid #fff;
+}
+
+.usb-stick-metal-separator-curve {
+    width: 5px;
+    height: 5px;
+    border-left: 1px solid #fff;
+    margin: -20px 0 0 42%;
+    background-color: @metal-color;
+}
+
+.usb-stick-hole {
+    width: 10px;
+    height: 5px;
+    background-color: @metal-inside-color;
+}
+
+.usb-stick-left-hole {
+    .usb-stick-hole;
+    margin: -20px 0 0 10px;
+}
+
+.usb-stick-right-hole {
+    .usb-stick-hole;
+    margin: -5px 0 0 42px;
+}
+
+.usb-cable {
+    width: 25px;
+    height: @cable-height;
+    background-color: @plastic-color;
+    margin: 0 auto;
+}
