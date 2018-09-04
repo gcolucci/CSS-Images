@@ -7,3 +7,4 @@ Please, feel free to provide any sort of feedback. I thank all possible inputs a
 # Index of contents
 
 - [USB Cable](../master/USBCable)
+(../master/Screenshots/USBCable.png)
