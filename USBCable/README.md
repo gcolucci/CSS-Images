@@ -1,3 +1,3 @@
 ## USB Cable
 
-![USB Cable screenshot](../master/Screenshots/USBCable.png)
+![USB Cable screenshot](../Screenshots/USBCable.png)

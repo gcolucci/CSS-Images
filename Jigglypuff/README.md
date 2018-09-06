@@ -1,3 +1,3 @@
 ## Jigglypuff
 
-![Jigglypuff screenshot](../master/Screenshots/Jigglypuff.png)
+![Jigglypuff screenshot](../Screenshots/Jigglypuff.png)
