@@ -6,5 +6,5 @@ Please, feel free to provide any sort of feedback. I thank all possible inputs a
 
 # Index of contents
 
+- [Jigglypuff](../master/Jigglypuff)
 - [USB Cable](../master/USBCable)
-![USB Cable screenshot](../master/Screenshots/USBCable.png)
